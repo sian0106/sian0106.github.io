@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
-  email            :20-20830@hafs.hs.kr
+  email            : "20-20830@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
