@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정시안"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
   email            : "20-20830@hafs.hs.kr"
