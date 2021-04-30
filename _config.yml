@@ -25,7 +25,7 @@ url                      : "https://sian0106.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sian0106/sian0106.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "정시안"
-  avatar           : "/assets/images/.jpg"
+  avatar           : "/assets/images/sian.jpg"
   bio              : "학생"
   location         : "대한민국, 서울"
   email            : "20-20830@hafs.hs.kr"
