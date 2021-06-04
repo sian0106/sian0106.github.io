@@ -1,5 +1,5 @@
-{% capture video_id="_VWI30KTUGA"}{{ include.id }}{% endcapture %}
-{% capture video_provider="youtube" %}{{ include.provider }}{% endcapture %}
+{% capture video_id="_VWI30KTUGA" provider="youtube" %}{{ include.id }}{% endcapture %}
+{% capture video_provide %}{{ include.provider }}{% endcapture %}
 {% capture video_danmaku %}{{ include.danmaku | default: 0 }}{% endcapture %}
 
 {% capture video_src %}
